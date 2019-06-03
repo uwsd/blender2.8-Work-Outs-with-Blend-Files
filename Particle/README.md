@@ -1,6 +1,6 @@
 # Introduction to Blender 2.8 Particle System
 
-My Work result (Click on the thumb-mail to see the video)
+My Work result (Click on the thumb-nail to see the video)
 
 [![](5kfy3wxicMw-Particle_Example.jpg)](http://www.youtube.com/watch?v=Bixx0DtcTJg)
 
